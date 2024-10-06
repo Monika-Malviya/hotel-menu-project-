@@ -1,13 +1,13 @@
-**Hotel Menu Project**<br>
+# Hotel Menu Project<br>
 **Overview**: Your project is a hotel menu application designed to help users select items from a menu and calculate the total cost. 
 It uses Python’s conditional statements (if/else) and dictionaries to manage the menu items and their prices.
 
-**Features**
+## Features
 - **Menu Display**: Shows a list of available menu items along with their prices.
 - **Order Processing**: Allows users to select items from the menu.
 - **Total Calculation**: Computes the total cost of the selected items.
 
- **Menu Items**<br>
+ ## Menu Items<br>
 The menu includes the following items:<br>
 - Pizza
 - Burger
@@ -15,10 +15,10 @@ The menu includes the following items:<br>
 - Salad
 - Pasta
 
-**Usage**<br>
+## Usage<br>
 Run the main script to start the program. The script will display the menu, prompt the user to enter their order, and then calculate and display the total cost.
 
-**How It Works**:<br>
+## How It Works:<br>
 **Display Menu**: The application starts by displaying the menu to the user.<br>
 
 **Get Order** : The user is prompted to enter the items they want to order.
